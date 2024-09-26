@@ -1,0 +1,16 @@
+&INPUT_PARAMETERS
+N = 1001
+scheme_number = 10
+L = 0.2
+A0 = 1.0
+AL = 1.0
+lambda = 394.0
+rho = 8890.0
+c = 400.0
+alpha = 15.0
+qL = 1000000.0
+Te = 100.0
+T0 = 0.0
+r = 0.166666667,
+time = 10.0,
+/

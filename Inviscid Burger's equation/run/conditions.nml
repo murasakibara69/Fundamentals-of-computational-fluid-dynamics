@@ -1,0 +1,6 @@
+&INPUT_PARAMETERS
+scheme_number = 1,    ! 1 or 6
+N             = 101,  !
+nu            = 0.5,  ! nu = dt * Umax / dx
+time          = 0.5,  !
+/
